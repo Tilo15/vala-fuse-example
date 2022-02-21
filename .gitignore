@@ -1,0 +1,8 @@
+.ninja*
+compile_commands.json
+/builddir
+/meson-*
+/mount
+/valafs.p
+/valafs
+build.ninja
